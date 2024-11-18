@@ -1,4 +1,5 @@
-// How JS code executed, Call Stack
+// What happens when run below code, how JS code executed behind the scene  ?
+// Execution Contexts, Call Stack
 
 var n = 2;
 
