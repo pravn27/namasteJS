@@ -4,3 +4,4 @@
 
 - How JavaScript Works 🔥& Execution Context
 - How JavaScript Code is executed? ❤️& Call Stack
+- Hoisting in JavaScript 🔥(variables & functions), Call Stack in browser dev tool
