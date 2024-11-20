@@ -48,3 +48,20 @@
 
   - **<mark>When whole JS code done with work / executed completely, global execution context will be removed</mark>**
     - ![alt text](images/fqwubywy.hfd.png)
+
+- **<mark>How does JS manage creation and deletion of Execution context when ever JS functions called ?</mark>**
+
+  - **<mark>Manage with Call Stack, with data structure stack behavior</mark>**
+    - ![alt text](images/ctb102z5.bna.png)
+  - **<mark>Always Global Execution Context will be there at bottom of Call Stack</mark>**
+  - **<mark>Whenever new function is called, branch new Execution Context will pushed into Call Stack</mark>**
+
+    - ![alt text](images/fjvftwnk.4aq.png)
+    - ![alt text](images/hh53bxjv.hvj.png)
+
+  - **<mark>As soon as done with E1 pop from stack, control back to where it called in global execution context</mark>**
+    - Similarly will execute with line #7 as well
+  - **<mark>As complete JS code execution done, Global EC also will removed & Call Stack becomes empty</mark>**
+  - ![alt text](images/ty2xq5et.20h.png)
+  - Call Stack calling with different names
+    - ![alt text](images/3hjlzgba.yps.png)
