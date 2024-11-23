@@ -4,4 +4,4 @@
 
 - [How JavaScript Works 🔥& Execution Context](./readerDoc/E1-executionContext.md)
 - [How JavaScript Code is executed? ❤️& Call Stack](./readerDoc/E2-jsExecutes&CallStack.md)
-- Hoisting in JavaScript 🔥(variables & functions), Call Stack in browser dev tool
+- [Hoisting in JavaScript 🔥(variables & functions)](./readerDoc/E3-jsHoisting.md)
