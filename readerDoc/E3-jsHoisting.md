@@ -26,4 +26,21 @@
   - Ans: NO, Both are different
 
 - **<mark>JS Hoisting is behavior where accessing all JS variables & function even before initialized it, without any error</mark>**
-- Even before code starts executing, memory is allocating to all JS variables & function during memory creation phase
+- Even before code starts executing, memory is allocating to all JS variables & functions during memory creation phase
+
+  - ![alt text](images/hr34vacl.r20.png)
+  - ![alt text](images/uql0vgsu.wia.png)
+
+- **<mark>Not defined</mark>**
+
+  - When memory is not allocated for variable x, since not defined, will get error when trying to access or use
+
+  - ![alt text](images/t23t22iq.pn5.png)
+
+- If function defined with fat arrow function or variable access
+
+  - ![alt text](images/akojvzxj.00j.png)
+  - ![alt text](images/llyqyusb.qff.png)
+
+- **<mark>Call Stack in browser - maintains the order of Execution of Execution contexts</mark>**
+  - ![alt text](images/qpblk1gc.edr.png)
