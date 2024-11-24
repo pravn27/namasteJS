@@ -7,3 +7,5 @@
 - [Hoisting in JavaScript 🔥(variables & functions)](./readerDoc/E3-jsHoisting.md)
 - [How functions work in JS ❤️ & Variable Environment](./readerDoc/E4-jsFunctions.md)
 - [SHORTEST JS Program 🔥window & this keyword](./readerDoc/E5-jsWindow&this.md)
+- [undefined vs not defined in JS 🤔](./readerDoc/E6-undefinedvsnotdefined.md)
+- [The Scope Chain, 🔥Scope & Lexical Environment](./readerDoc/E7-jsScopeChain.md)
