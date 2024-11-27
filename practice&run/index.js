@@ -1,8 +1,9 @@
-var userName = "Praveen";
-
-console.log(x);
-
-function getYear() {
-  var year = 2024;
-  return year;
+function getName() {
+  var userName = "Praveen";
+  getUserName();
+  function getUserName() {
+    console.log(userName);
+  }
 }
+
+getName();
