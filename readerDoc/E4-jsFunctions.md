@@ -35,6 +35,7 @@
 
 - **<mark>While executing Each function has its own / separate memory space, which is independent</mark>**
 
+  - ![alt text](images/avcimage.png)
   - ![alt text](images/xsdsimage.png)
 
 - By executing JS code, will understand
