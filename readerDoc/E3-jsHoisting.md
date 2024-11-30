@@ -44,3 +44,5 @@
 
 - **<mark>Call Stack in browser - maintains the order of Execution of Execution contexts</mark>**
   - ![alt text](images/qpblk1gc.edr.png)
+  - Call Stack in client side browser dev tool, where Global Execution Context calling as anonymous name
+    - ![alt text](images/imagexssdf.png)
