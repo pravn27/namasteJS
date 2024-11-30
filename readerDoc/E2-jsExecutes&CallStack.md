@@ -65,3 +65,5 @@
   - ![alt text](images/ty2xq5et.20h.png)
   - Call Stack calling with different names
     - ![alt text](images/3hjlzgba.yps.png)
+  - Call Stack in client side browser dev tool, where Global Execution Context calling as anonymous name
+    - ![alt text](images/imagexssdf.png)
