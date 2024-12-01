@@ -9,3 +9,4 @@
 - [SHORTEST JS Program 🔥window & this keyword](./readerDoc/E5-jsWindow&this.md)
 - [undefined vs not defined in JS 🤔](./readerDoc/E6-undefinedvsnotdefined.md)
 - [The Scope Chain, 🔥Scope & Lexical Environment](./readerDoc/E7-jsScopeChain.md)
+- [let & const in JS 🔥Temporal Dead Zone](./readerDoc/E8-jsLetandConst.md)
