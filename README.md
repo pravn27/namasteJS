@@ -10,3 +10,5 @@
 - [undefined vs not defined in JS 🤔](./readerDoc/E6-undefinedvsnotdefined.md)
 - [The Scope Chain, 🔥Scope & Lexical Environment](./readerDoc/E7-jsScopeChain.md)
 - [let & const in JS 🔥Temporal Dead Zone](./readerDoc/E8-jsLetandConst.md)
+- [BLOCK SCOPE & Shadowing in JS 🔥](./readerDoc/E9-jsBlockScope&shadow.md)
+- [Closures in JS 🔥]
