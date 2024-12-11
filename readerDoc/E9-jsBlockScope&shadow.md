@@ -11,7 +11,7 @@
     - We can use group of statement where JS expects single statement
   - **<mark>What is Block Scope</mark>** ?
 
-    - What are variables, functions access inside the block { }
+    - What are the variables, functions access inside the block { }
     - Check in below code
 
       - ```javascript
